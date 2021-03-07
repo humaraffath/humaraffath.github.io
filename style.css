@@ -3,7 +3,7 @@ body
   margin: 0;
   padding: 0;
   text-align:center;
-  background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(image.jpg);
+  background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(https://github.com/humaraffath/humaraffath.github.io/blob/main/image.jpg);
   background-size:cover;
   background-position:center;
   font-family:sans-serif;
