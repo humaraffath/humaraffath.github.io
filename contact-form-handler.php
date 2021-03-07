@@ -12,3 +12,4 @@
   mail($to,$email_subject,$email_body,$headers);
   header("Location: index.html");
   
+?>
